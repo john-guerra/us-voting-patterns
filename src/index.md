@@ -28,4 +28,4 @@ display(await notebook.value("usVotingNetwork"));
 import { notebook } from "./components/usSenate.js";
 ```
 
-See the [source code on this notebook](https://observablehq.com/@john-guerra/us-senate-network)
+See the [original Observable notebook](https://observablehq.com/@john-guerra/us-senate-network) and [here is the source code for the Observable Framework](https://github.com/john-guerra/us-voting-patterns)
